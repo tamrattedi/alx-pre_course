@@ -1,0 +1,1 @@
+This is ALX-Pre-Course project made by Leul Nigussu and the first dir pushed to git repo.
